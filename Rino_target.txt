@@ -3,6 +3,7 @@ target
 -jagongoding1
 *jago1
 *jago2
+-dalam1
 -jagongoding2
 -jagongoding3
 -jagongoding4
