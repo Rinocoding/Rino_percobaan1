@@ -3,10 +3,12 @@ target
 -jagongoding1
   *jago1
   *jago2
-    ^coba1
-    ^mwmbuat2
+    ^membuat1
+    ^membuat2
+
 -dalam1
 -jagongoding2
 -jagongoding3
   ^membuat2
 -jagongoding4
+-jagongoding5
