@@ -5,6 +5,7 @@ target
   *jago2
     ^membuat1
     ^membuat2
+
 -dalam1
 -jagongoding2
 -jagongoding3
